@@ -11,7 +11,7 @@ if exists("syntax_on")
 endif
 let g:colors_name = "railscasts"
 
-hi Normal                    guifg=#e4e4e4 guibg=#121212 ctermfg=254 ctermbg=233
+hi Normal                    guifg=#e4e4e4 guibg=#121212 ctermfg=254 ctermbg=235
 hi Search                    guifg=#000000 guibg=#5f5f87 ctermfg=0 ctermbg=60 cterm=NONE
 hi Visual                    guibg=#5f5f87 ctermbg=60
 hi LineNr                    guifg=#666666 ctermfg=242
